@@ -29,8 +29,8 @@
     // for (var i = 0; i < 5; i++) {
     //   var numeri = parseInt(prompt('scrivi un numero'));
     //   somma += numeri;
-    //   console.log(somma);
     // }
+    // console.log(somma);
 
   // // versione con WHILE
   //   var somma = 0 ;
